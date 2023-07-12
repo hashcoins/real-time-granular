@@ -9,7 +9,7 @@ Clone the repository:
 $ git clone https://github.com/hashcoins/real-time-granular.git --recursive
 $ cd real-time-granular
 ```
-Open jr-granular.maxpat and export the RNBO patch with the following configuration options:
+Export the RNBO patch with the following configuration options:
 - Output Directory: `YOUR_PATH_TO_THIS_PROJECT/real-time-granular/RnboExport`
 - Export Name: `rnbo_granular.cpp`
 
